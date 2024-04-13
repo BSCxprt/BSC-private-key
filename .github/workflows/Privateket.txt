@@ -1,0 +1,3 @@
+private key wallet
+bsc:
+0xf72f15a928f1be48f10fde74fbaa897d8027b908440c7999fc887000f9cf6459
